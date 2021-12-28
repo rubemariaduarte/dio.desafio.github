@@ -1,0 +1,11 @@
+Criei o repositório no GitHub. 
+Clonei o repositório. 
+Criei uma sub pasta e, dentro dela, anotações como essa. 
+Em seguida, executei os comandos abaixo no Git Bash:
+
+git status
+git add .
+git status
+git commit - m "Inclusão de anotações…”
+git status
+git push origin main
